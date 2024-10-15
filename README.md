@@ -2,6 +2,7 @@
 
 Una aplicación de lista de tareas desarrollada con React.js, que permite a los usuarios agregar, editar, completar y eliminar tareas de manera intuitiva. El proyecto incluye el uso de varios hooks de React como `useState`, `useEffect`, `useRef` y `useReducer`, así como la integración de `localStorage` para la persistencia de los datos.
 
+
 ## Características
 
 - **Agregar tareas**: Los usuarios pueden agregar nuevas tareas a la lista utilizando un formulario sencillo.
@@ -11,7 +12,11 @@ Una aplicación de lista de tareas desarrollada con React.js, que permite a los 
 - **Persistencia de datos**: Los datos de las tareas se guardan en `localStorage`, lo que permite que la lista de tareas se mantenga al recargar la página.
 - **Interfaz moderna y dinámica**: Estilo moderno y responsivo con animaciones suaves que hacen la experiencia de usuario más agradable.
 
+
 ## Capturas de Pantalla
+![Captura de pantalla 2024-10-15 160030](https://github.com/user-attachments/assets/b20ebff6-cfd2-43ab-9e96-97d47a95cf70)
+
+
 
 ## Tecnologías utilizadas
 
@@ -19,6 +24,7 @@ Una aplicación de lista de tareas desarrollada con React.js, que permite a los 
 - **Vite**: Herramienta de desarrollo rápida y ligera para aplicaciones React.
 - **JavaScript**: Lenguaje de programación utilizado para la lógica de la aplicación.
 - **CSS**: Estilos personalizados para darle un aspecto moderno a la aplicación.
+
 
 ## Estructura del proyecto
 
@@ -43,15 +49,16 @@ todo-list-app/
 └── vite.config.js
 ```
 
+
 ## Cómo ejecutar el proyecto
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/Christian-Duarte/cat-pictures-app.git
+   git clone https://github.com/Christian-Duarte/todo-list-app-React.git
    ```
 2. Navegar al directorio del proyecto:
    ```bash
-   cd cat-pictures-app
+   cd todo-list-app-React
    ```
 3. Instalar dependencias:
    ```bash
